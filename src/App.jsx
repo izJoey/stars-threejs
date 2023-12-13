@@ -4,7 +4,7 @@ import { OrbitControls, Html } from '@react-three/drei';
 import { EffectComposer, Bloom } from '@react-three/postprocessing';
 import React, { useMemo, useRef } from 'react';
 import img from './assets/star1.png';
-import './app.css';
+import './App.css';
 
 extend({ OrbitControls });
 
